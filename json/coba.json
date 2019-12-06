@@ -1,0 +1,16 @@
+[
+    {
+        "nama": "Marlina Puspita Dewi",
+        "umur": 21,
+        "nrp": "173040073",
+        "lulus": true,
+        "hobby": [
+            "Coding",
+            "Desain Grafis"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Sandhika",
+            "pembimbing2": "Handoko"
+        }
+    }
+]
